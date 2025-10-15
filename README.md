@@ -21,20 +21,14 @@
 
 ## Screenshots
 
-### Course Browser
-![Course Browser](./img/course_browser.PNG)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-### Course Content
-![Course Content](./img/course_content.PNG)
+<img src="./img/course_content.PNG" width="200">
+<img src="./img/question_bank.PNG" width="200">
+<img src="./img/question_sets.PNG" width="200">
+<img src="./img/question_viewer.PNG" width="200">
 
-### Question Bank
-![Question Bank](./img/question_bank.PNG)
-
-### Question Sets
-![Question Sets](./img/question_sets.PNG)
-
-### Question Viewer
-![Question Viewer](./img/question_viewer.PNG)
+</div>
 
 ---
 
@@ -43,7 +37,4 @@
 - Frontend: Added, actively under development
 
 ---
-
-## Contribution
-This project is developed by the **BSW IIT Delhi Technical Team**. Contributions focus mainly on frontend UI/UX and backend integration.  
 
