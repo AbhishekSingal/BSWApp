@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "outDir": "dist",
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true
+  }
+}

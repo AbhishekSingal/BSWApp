@@ -1,0 +1,72 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  userid    String   @id
+  password  String
+  firstname String
+  lastname  String
+  subjects  String[]
+  hostel    String
+  dpcolor   String   @default("#36a8b2ff")
+  createdAt DateTime @default(now())
+}
+
+model Course {
+  id             Int           @id @default(autoincrement())
+  code           String        @unique
+  name           String
+  content        Json
+  contentVersion Int           @default(1)
+  Question       Question[]
+  QuestionSet    QuestionSet[]
+}
+
+model Question {
+  id                  Int                   @id @default(autoincrement())
+  courseId            Int
+  course              Course                @relation(fields: [courseId], references: [id])
+  difficulty          String
+  topic               String
+  type                String
+  details             Json
+  createdAt           DateTime              @default(now())
+  QuestionSetQuestion QuestionSetQuestion[]
+}
+
+model QuestionSet {
+  id          Int     @id @default(autoincrement())
+  title       String // e.g. "Set 1"
+  description String?
+  courseId    Int
+  course      Course  @relation(fields: [courseId], references: [id])
+
+  questions QuestionSetQuestion[] // 👈 Many-to-many pivot
+}
+
+model QuestionSetQuestion {
+  id            Int         @id @default(autoincrement())
+  questionId    Int
+  question      Question    @relation(fields: [questionId], references: [id])
+  questionSetId Int
+  questionSet   QuestionSet @relation(fields: [questionSetId], references: [id])
+
+  // optional: add metadata
+  orderInSet Int?
+  marks      Int?
+}
+
+//npx prisma migrate reset

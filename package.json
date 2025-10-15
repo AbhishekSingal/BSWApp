@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-size-matters": "^0.4.2"
+  }
+}

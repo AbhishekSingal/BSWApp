@@ -1,0 +1,910 @@
+{
+  "sections": [
+    {
+      "name": "Course Policy",
+      "items": [
+        {
+          "type": "item",
+          "name": "Course Policy PPT",
+          "description": "\nQuizzes: 25 (Best 3 of 4)\n\nMinor: 30\n\nMajor: 45\n\nAttendance: 75%",
+          "filetype": "ppt",
+          "link": "somelink"
+        }
+      ]
+    },
+    {
+      "name": "Lectures",
+      "items": [
+        {
+          "type": "item",
+          "name": "Lecture 1",
+          "description": "Introduction to the subject and basic concepts.",
+          "filetype": "pdf",
+          "link": "https://drive.google.com/file/d/1xVzMdeMOD5w5G1pfsF0UrbAOWabY6M9s/view?usp=share_link"
+        },
+        {
+          "type": "item",
+          "name": "Lecture 2",
+          "description": "Understanding core principles and applications.",
+          "filetype": "pdf",
+          "link": "https://drive.google.com/file/d/1wzeAusWJbk2pmP6ZzMnlW0w3jbxwTfAi/view?usp=share_link"
+        },
+        {
+          "type": "item",
+          "name": "Lecture 3",
+          "description": "Advanced topics and problem-solving techniques.",
+          "filetype": "pdf",
+          "link": "https://drive.google.com/file/d/1Ze7EsMUnk3byXZP7HPINDBtrr5jnfH6P/view?usp=share_link"
+        }
+      ]
+    },
+    {
+      "name": "Tutorials",
+      "items": [
+        {
+          "type": "item",
+          "name": "Tutorial 1",
+          "description": "Practice basic examples from Lecture 1.",
+          "filetype": "pdf",
+          "link": "somelink"
+        },
+        {
+          "type": "item",
+          "name": "Tutorial 2",
+          "description": "Hands-on exercises for Lecture 2 topics.",
+          "filetype": "pdf",
+          "link": "somelink"
+        },
+        {
+          "type": "item",
+          "name": "Tutorial 3",
+          "description": "Mixed problems covering first three lectures.",
+          "filetype": "docx",
+          "link": "somelink"
+        },
+        {
+          "type": "section",
+          "name": "Solutions",
+          "description": "Solutions as Provided by TA and Students",
+          "items": [
+            {
+              "type": "item",
+              "name": "Tutorial 1 Solution",
+              "description": "",
+              "filetype": "pdf",
+              "link": "somelink"
+            },
+            {
+              "type": "item",
+              "name": "Tutorial 2 Solution",
+              "description": "",
+              "filetype": "pdf",
+              "link": "somelink"
+            },
+            {
+              "type": "item",
+              "name": "Tutorial 3 Solution",
+              "description": "",
+              "filetype": "pdf",
+              "link": "somelink"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PYQs",
+      "items": [
+        {
+          "type": "section",
+          "name": "2024",
+          "description": "",
+          "items": [
+            {
+              "name": "Fall 2024",
+              "description": "",
+              "type": "section",
+              "items": [
+                {
+                  "name": "Quizzes",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Quiz1",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz2",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz3",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Solutions",
+                      "type": "section",
+                      "description": "",
+                      "items": [
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz2 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Minor",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                },
+                {
+                  "name": "Major",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Spring 2024",
+              "description": "",
+              "type": "section",
+              "items": [
+                {
+                  "name": "Quizzes",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Quiz1",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz2",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz3",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Solutions",
+                      "type": "section",
+                      "description": "",
+                      "items": [
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz2 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Minor",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                },
+                {
+                  "name": "Major",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "2023",
+          "description": "",
+          "items": [
+            {
+              "name": "Fall 2023",
+              "description": "",
+              "type": "section",
+              "items": [
+                {
+                  "name": "Quizzes",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Quiz1",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz2",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz3",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Solutions",
+                      "type": "section",
+                      "description": "",
+                      "items": [
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz2 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Minor",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                },
+                {
+                  "name": "Major",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Spring 2023",
+              "description": "",
+              "type": "section",
+              "items": [
+                {
+                  "name": "Quizzes",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Quiz1",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz2",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz3",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Solutions",
+                      "type": "section",
+                      "description": "",
+                      "items": [
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz2 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Minor",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                },
+                {
+                  "name": "Major",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "2022",
+          "description": "",
+          "items": [
+            {
+              "name": "Fall 2022",
+              "description": "",
+              "type": "section",
+              "items": [
+                {
+                  "name": "Quizzes",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Quiz1",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz2",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz3",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Solutions",
+                      "type": "section",
+                      "description": "",
+                      "items": [
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz2 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Minor",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                },
+                {
+                  "name": "Major",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Spring 2022",
+              "description": "",
+              "type": "section",
+              "items": [
+                {
+                  "name": "Quizzes",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Quiz1",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz2",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Quiz3",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Solutions",
+                      "type": "section",
+                      "description": "",
+                      "items": [
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz2 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        },
+                        {
+                          "name": "Quiz1 Solutions",
+                          "description": "",
+                          "type": "item",
+                          "filetype": "pdf",
+                          "link": "somelink"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Minor",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Minor Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                },
+                {
+                  "name": "Major",
+                  "type": "section",
+                  "items": [
+                    {
+                      "name": "Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    },
+                    {
+                      "name": "Re-Major Solutions",
+                      "description": "",
+                      "type": "item",
+                      "filetype": "pdf",
+                      "link": "somelink"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "type": "item",
+          "name": "Recommendations",
+          "description": "Details regarding course content of previous year",
+          "filetype": "other",
+          "link": "somelink"
+        }
+      ]
+    }
+  ]
+}

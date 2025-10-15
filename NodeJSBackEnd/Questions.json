@@ -1,0 +1,145 @@
+{
+  "question_text": "Solve the following systems of equations by reducing the augmented matrix to the row reduced echelon form",
+  "question_image": "q1.png",
+  "solution_text": "",
+  "solution_images": ["q1s.png"]
+}
+
+{
+  "question_text": "Solve the following systems of equations by reducing the augmented matrix to the row reduced echelon form",
+  "question_image": "q2.png",
+  "solution_text": "",
+  "solution_images": ["q2s1.png","q2s2.png"]
+}
+
+{
+  "question_text": "Consider the follwing system of equations.\n(a) Find all values of a for which the system has a uniques solution\n(b)Find all pairs (a,b) for which the system has more than one solutions",
+  "question_image": "q3.png",
+  "solution_text": "",
+  "solution_images": ["q3s1.png","q3s2.png","q3s3.png"]
+},
+{
+  "question_text": "Compute the rank of the following matrices. Using the Rank , determine which of these matrices are invertible.",
+  "question_image": "q4.png",
+  "solution_text": "",
+  "solution_images": ["q4s1.png","q4s2.png","q4s3.png"]
+},
+{
+  "question_text": "Show that every elementary matrix is invertible , and the inverse is an elementary matrix",
+  "question_image": "",
+  "solution_text": "",
+  "solution_images": ["q5s1.png","q5s2.png"]
+}
+
+{
+  "question_text":"",
+  "question_image":"",
+  "solution_text":"",
+  "solution_images":[]
+}
+
+{
+  "question_text":"",
+  "question_image":"q6.png",
+  "solution_text":"",
+  "solution_images":["q6s1.png","q6s2.png","q6s3.png"]
+}
+
+{
+  "question_text":"",
+  "question_image":"q7.png",
+  "solution_text":"",
+  "solution_images":["q7s1.png","q7s2.png","q7s3.png","q7s4.png"]
+}
+
+{
+  "question_text":"",
+  "question_image":"q8.png",
+  "solution_text":"",
+  "solution_images":["q8s1.png","q8s2.png"]
+}
+
+{
+  "question_text":"",
+  "question_image":"q9.png",
+  "solution_text":"",
+  "solution_images":["q9s1.png"]
+}
+
+{
+  "question_text":"",
+  "question_image":"q10.png",
+  "solution_text":"",
+  "solution_images":["q10s1.png","q10s2.png","q10s3.png","q10s4.png"]
+}
+
+{
+  "question_text":"",
+  "question_image":"q11.png",
+  "solution_text":"",
+  "solution_images":["q11s1.png","q11s2.png","q11s3.png"]
+}
+
+{
+  "question_text":"Which of the following matrices are row echelon and row reduced echelon matrix. Give a reason when the matrix is not row reduced echelon",
+  "question_image":"q12.png",
+  "solution_text":"",
+  "solution_images":["q12s1.png","q12s2.png"]
+}
+
+{
+  "question_text":"Find row reduce echelon matrix which row equivalent to the following matrices and their transposes.",
+  "question_image":"q12.png",
+  "solution_text":"",
+  "solution_images":["q13s1.png","q13s2.png","q13s3.png"]
+}
+
+{
+  "question_text":"Find the inverse of the invertible matrices amongst the following matrices by reducing the matrix to row reduced echelon form (identity matrix).",
+  "question_image":"q14.png",
+  "solution_text":"",
+  "solution_images":["q14s1.png","q14s2.png"]
+}
+
+{
+  "question_text":"Find the inverse of the invertible matrices amongst the following matrices by reducing the matrix to row reduced echelon form (identity matrix).",
+  "question_image":"q14.png",
+  "solution_text":"",
+  "solution_images":["q14s1.png","q14s2.png"]
+}
+
+{
+  "question_text":"Write down the following matrices as the product of elementary matrices (whenever possible).",
+  "question_image":"q15.png",
+  "solution_text":"",
+  "solution_images":["q15s1.png","q15s2.png"]
+}
+
+{
+  "question_text":"Solve the following systems of equations by reducing the augmented matrix to the row reduced echelon form",
+  "question_image":"q16.png",
+  "solution_text":"",
+  "solution_images":["q16s1.png","q16s2.png","q16s3.png","q16s4.png","q16s5.png","q16s6.png","q16s7.png","q16s8.png"]
+}
+
+{
+  "question_text":"Find a,b,c,p,q such that the following system has a solution",
+  "question_image":"q17.png",
+  "solution_text":"",
+  "solution_images":["q17s1.png","q17s2.png"]
+}
+
+{
+  "question_text":"",
+  "question_image":"q18.png",
+  "solution_text":"",
+  "solution_images":["q18s1.png","q18s2.png","q18s3.png","q18s4.png"]
+}
+
+
+
+
+
+
+
+
